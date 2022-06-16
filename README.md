@@ -133,7 +133,7 @@ void loop(){
 ```
 ###OUTPUT:
  
-![image](robooo.png)
+![image](./robooo.jpg)
 
 ### TABLE -02 OUTPUT VOLTAGES AND CHANGE IN RESISTANCES
 
